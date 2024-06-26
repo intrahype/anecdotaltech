@@ -6,11 +6,13 @@ print("Enter number")
 
 number = input()
 
-def collatz(number)
-    if number % 2 == 0
+def collatz():
+    print(number)
+    if number % 2 == 0:
         number = number / 2
         return number
-    if number == 1
+    if number == 1:
         sys.exit()
-    else
+    else:
         number = 3 * number + 1
+    
