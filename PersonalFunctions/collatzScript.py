@@ -4,12 +4,12 @@
 
 print("Enter number")
 
-number = input()
+number = int(input())
 
 def collatz():
-    print(number)
+    print(int(number))
     if number % 2 == 0:
-        number = number / 2
+        number = number // 2
         return number
     if number == 1:
         sys.exit()
