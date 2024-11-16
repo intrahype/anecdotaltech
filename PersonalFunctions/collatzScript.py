@@ -7,12 +7,9 @@ print("Enter number")
 number = int(input())
 
 def collatz():
-    print(int(number))
-    if number % 2 == 0:
-        number = number // 2
-        return number
-    if number == 1:
-        sys.exit()
-    else:
-        number = 3 * number + 1
+    """
+    Function to print the collatz sequence from an user inputted number
+    param: int(intput())
+    return: return printed list of numbers from input to 1
+    """
     
