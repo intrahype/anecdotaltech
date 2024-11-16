@@ -3,7 +3,7 @@ import random
 
 #create list of task items and number of iterations
 #to use this for yourself, just copy and change out the tasks and add the cycle counts you prefer
-tasks = ["3D Print", "Wood Carving", "Crochet", "Sewing", "Chainmail", "Code", "Stained Glass(Acrylic)"]
+tasks = ["3D Print", "Wood Carving", "Crochet", "Code", "Robotics", "Video Games"]
 
 cycles = [1, 2, 3, 4]
 
