@@ -1,5 +1,3 @@
-#work in progress from Automate the Boring Stuff Chapter 3
-
 #a small script to run the collatz sequence for fun
 
 def collatz(value):
