@@ -3,4 +3,4 @@ Collection of simple scripts and functions to demonstrate my abilities with Pyth
 
 Personal Functions will be an everchanging showcase of my current python skills
 
-Work functions will be scripts written for use at work and for repeated workflow automation, these are generic functions that could be used in many different enviroments and situations
+Work functions will be scripts written for use at work and workflow automation, these are generic functions that could be used in many different enviroments and situations
